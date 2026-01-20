@@ -1,0 +1,28 @@
+{
+    "movies": [
+        {
+            "movie_id": 1,
+            "title": "Spider-Man: Homecoming",
+            "release_year": 2017,
+            "director": "Jon Watts",
+            "rating": 7.4,
+            "description": "Peter Parker balances his life as an ordinary high school student."
+        },
+        {
+            "movie_id": 2,
+            "title": "Spider-Man: Far From Home",
+            "release_year": 2019,
+            "director": "Jon Watts",
+            "rating": 7.4,
+            "description": "Spider-Man must step up to take on new threats."
+        },
+        {
+            "movie_id": 3,
+            "title": "Spider-Man: No Way Home",
+            "release_year": 2021,
+            "director": "Jon Watts",
+            "rating": 8.2,
+            "description": "Peter asks Doctor Strange for help when a spell goes wrong."
+        }
+    ]
+}
